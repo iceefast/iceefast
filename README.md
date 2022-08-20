@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samuel</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/6PUE1PAsXQUAAAAM/scaler-create-impact.gif">
+<img align="right" alt="Coding" width="350" src="https://c.tenor.com/6PUE1PAsXQUAAAAM/scaler-create-impact.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iceefast&label=Profile%20views&color=0e75b6&style=flat" alt="iceefast" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
