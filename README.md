@@ -40,6 +40,9 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a>
+
+  <a href="https://learn.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office" target="_blank">
+    <img src="https://serkonda7.gallerycdn.vsassets.io/extensions/serkonda7/vscode-vba/0.9.0/1686121620796/Microsoft.VisualStudio.Services.Icons.Default" alt="Vba" width="40" height="40"/>
   </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iceefast&show_icons=true&locale=en&layout=compact" alt="iceefast" /></p>
