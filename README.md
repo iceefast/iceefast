@@ -19,7 +19,7 @@
 
   
   <a href="https://t.me/iceefast" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/telegram.svg" target="_blank"alt="telegram" height="40" width="40"/>
+    <img src="https://images.indianexpress.com/2021/06/Telegram.jpg?w=640" target="_blank"alt="telegram" height="40" width="40"/>
   </a>
 </p>
 
