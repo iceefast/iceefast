@@ -16,11 +16,14 @@
   <a href="https://www.linkedin.com/in/samuel-cristian/" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel (cristian) dev. front-end" height="40" width="40" />
   </a>
+
+  
+  <a href="https://t.me/iceefast" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/telegram.svg" target="_blank"alt="telegram" height="40" width="40"/>
+  </a>
 </p>
 
 
-  <a href="https://t.me/iceefast" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/telegram.svg" target="_blank"alt="telegram" height="40" width="40"/>
 
 
 
