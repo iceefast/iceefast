@@ -18,10 +18,10 @@
   </a>
 </p>
 
-<p align="left">
+
   <a href="https://t.me/iceefast" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/telegram.svg" target="_blank"alt="telegram" height="40" width="40"/>
-</p>
+
 
 
 
