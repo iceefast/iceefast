@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Samuel</h1>
 <h3 align="center">A Front-end developer from BRAZIL</h3>
 <img align="right" alt="Coding" width="350" src="https://c.tenor.com/6PUE1PAsXQUAAAAM/scaler-create-impact.gif">
@@ -12,7 +13,12 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://www.linkedin.com/in/samuel-cristian/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel (cristian) dev. front-end" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/samuel-cristian/" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel (cristian) dev. front-end" height="30" width="40" />
+</a>
+
+<a href="https://t.me/iceefast" target="_blank">
+  <img src="https://cdn.worldvectorlogo.com/logos/telegram.svg" alt="telegram" height="30" width="40"/>
 </p>
 
 
