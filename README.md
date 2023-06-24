@@ -19,7 +19,7 @@
 
   
   <a href="https://t.me/iceefast" target="_blank">
-    <img src="[D:\downloads_ronaldinho\icon-telegram](https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/telegram-1024.png)" target="_blank"alt="telegram" height="40" width="40"/>
+    <img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/telegram-1024.png" target="_blank"alt="telegram" height="40" width="40"/>
   </a>
 </p>
 
