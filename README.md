@@ -42,8 +42,8 @@
   </a>
 
   
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
     </a> 
 
     
