@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻 **Personal project** and **Freelancer**
+- ❄️ **Developer** and **web3 technology enthusiast**
 
-- 💻**I work solving problems, creating systems**
+- 💻 **I work solving problems, creating systems**
 
 <h3 align="left">Connect with me:</h3>
 
