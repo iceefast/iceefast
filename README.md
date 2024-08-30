@@ -47,8 +47,8 @@
     </a> 
 
     
-  <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" alt="git" width="40" height="40"/> 
+  <a href="https://bitcoin.org/en/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/bitcoin/bitcoin-icon.svg" alt="git" width="40" height="40"/> 
   </a>
   
 
